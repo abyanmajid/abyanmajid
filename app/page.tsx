@@ -30,7 +30,7 @@ export default function Home() {
       </div>
       <Separator />
       <section id="about" className="gap-2 mt-6 grid grid-cols-4">
-        <Image src="./pic.jpg" alt="pic.jpg" width={150} height={250} />
+        <Image src="/pic.jpg" alt="pic.jpg" width={150} height={250} />
         <div className="text-primary col-span-3">
           <h1 className="font-bold mb-2">Abyan Majid <span className="font-normal text-muted-foreground">(pronounced: Uh-bee-yun)</span></h1>
           <h1>Computer Science Student (1st Year)</h1>
