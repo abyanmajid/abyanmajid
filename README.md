@@ -1,6 +1,8 @@
 I'm a first year interested in collaborative open-sourced side projects :) \
 Please get in touch if you'd like to have me. I respond quickest on discord 🐋
 
+Portfolio: ***[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)***
+
 <!-- <details> -->
 <!--   <summary>Personal projects</summary> -->
 <!---->
