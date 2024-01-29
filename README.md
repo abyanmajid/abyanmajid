@@ -1,7 +1,7 @@
-I'm a first year interested in collaborative open-sourced side projects :) \
-Please get in touch if you'd like to have me. I respond quickest on discord 🐋
+Computer Science Student at USYD :) \
+Interests: Open-source software, AI, Web3
 
-Portfolio: ***[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)***
+Portfolio: **[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)**
 
 <!-- <details> -->
 <!--   <summary>Personal projects</summary> -->
