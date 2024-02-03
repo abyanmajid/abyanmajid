@@ -1,5 +1,5 @@
 Freshman at USYD :) \
-Interests: Open-source software, AI, Web3
+Interests: Open source software, AI, Web3, Rust
 
 Portfolio: **[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)**
 
