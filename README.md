@@ -3,6 +3,25 @@ Interests: Open source software, AI, Web3, Rust
 
 Portfolio: **[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)**
 
+<details>
+<summary>Personal projects</summary>
+<br>
+
+**2024**
+- **[revise-badvcomp](https://github.com/abyanmajid/revise-badvcomp/tree/main)** (Rust, TypeScript) — Axum Web API (with NextJS UI) for generating practice problems for BAdvComp units.
+- **[zetafy/flarenotes](https://github.com/zetafy/flarenotes/tree/main)** (Go, TypeScript) — Note-taking/sharing app built with Gin Gonic, Supabase, and Next.js
+
+**2023**
+- **[canute](https://github.com/abyanmajid/canute/tree/main)** (TypeScript) — NextJS quiz-making web app with Server Actions-leveraging Mongo backend.
+- **[hyte](https://github.com/abyanmajid/hyte/tree/main)** (Rust) - Hypothesis testing library crate for Rust with support for Z, T, and Chi-squared tests.
+- **[zetafy/abelardo](https://github.com/zetafy/abelardo/tree/main)** (Python) - Discord bot that generates ELEC1601 practice problems.
+- **[dyckvis](https://github.com/abyanmajid/dyckvis/tree/main)** (JavaScript) - Static web app for visualizing dyck paths.
+
+**2022**
+- **[serambimungil](https://github.com/abyanmajid/serambimungil)** (Python) - Django web app for a small store, built with the model-template-views architecture.
+
+</details>
+
 <!-- <details> -->
 <!--   <summary>Personal projects</summary> -->
 <!---->
