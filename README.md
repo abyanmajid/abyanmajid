@@ -22,6 +22,30 @@ Portfolio: **[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)**
 
 </details>
 
+<details>
+<summary>Skills</summary>
+<br>
+
+**Programming Languages**
+
+- *Extensive use*: Rust, TypeScript/JavaScript
+- *Some experience*: Go, Java, Python, C, R
+
+**Fullstack Development**
+
+- Practical skills: UI/UX, Web Services/API, Databases, Containerization, CI/CD
+- Technologies
+  - *Extensive use*: Next.js/React.js, Axum.rs, Docker, Supabase, GCP, Vercel, Shadcn-UI
+  - *Some experience*: Svelte.js, PostgreSQL, MongoDB, Gin Gonic, AWS, Firebase, Django, Shuttle, Express
+
+**Data Science and AI**
+
+- Practical skills: Supervised Learning, Data Visualization and Manipulation
+- Technologies
+  - *Some experience*: TensorFlow, RStudio
+
+</details>
+
 <!-- <details> -->
 <!--   <summary>Personal projects</summary> -->
 <!---->
