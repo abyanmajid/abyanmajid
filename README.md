@@ -30,6 +30,7 @@ Portfolio: **[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)**
 
 - *Extensive use*: Rust, TypeScript/JavaScript
 - *Some experience*: Go, Java, Python, C, R
+- *Markup*: LaTeX
 
 **Fullstack Development**
 
