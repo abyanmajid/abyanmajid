@@ -29,15 +29,15 @@ Portfolio: **[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)**
 **Programming Languages**
 
 - *Extensive use*: Rust, TypeScript/JavaScript
-- *Some experience*: Go, Java, Python, C, R
+- *Some experience*: Go, Java, Python, C#, C, R
 - *Markup*: LaTeX
 
 **Fullstack Development**
 
 - Practical skills: UI/UX, Web Services/API, Databases, Containerization, CI/CD
 - Technologies
-  - *Extensive use*: Next.js/React.js, Axum.rs, Docker, Supabase, GCP, Vercel, Shadcn-UI
-  - *Some experience*: Svelte.js, PostgreSQL, MongoDB, Gin Gonic, AWS, Firebase, Django, Shuttle, Express
+  - *Extensive use*: Next.js/React.js, Axum.rs, Docker, Supabase, GCP, Vercel
+  - *Some experience*: Svelte.js, PostgreSQL, MongoDB, Gin Gonic, AWS, Firebase, Django, Shuttle, Express.js
 
 **Data Science and AI**
 
