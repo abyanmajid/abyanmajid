@@ -60,6 +60,12 @@ Dropbox/Onedrive/
 
 or you could use a table in Excel or similar:
 
+| Resource | Notes |
+|---|---|
+| www.okwebsite.com/info.html | Has some basic information on what to use X for but not a lot of detail about how to use it |
+| www.betterwebsite.com/tutorial.asp | Has an in-depth tutorial on using X |
+| www.youtube.com/watch?v=dQw4w9WgXcQ | Has a worked solution on video |
+
 ## Submission
 
 Once you are ready, upload your document **as a pdf** to the submission link on Canvas - todo. Remember that this is not
