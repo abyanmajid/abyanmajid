@@ -1,5 +1,7 @@
 # Markdown Exercise
 
+![](https://cdn.iconscout.com/icon/free/png-256/free-markdown-1-457956.png)
+
 ## Introduction
 
 One of the most important skills any computing graduate needs to develop is the ability to *learn things independently*. Because
@@ -14,7 +16,6 @@ This recognition of the need to `learn to learn` has been around for a while now
 
 > The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and
 > relearn.
-
 - Alvin Toffler
 
 (this quote may explain some of those advertisements the university is so fond of putting up around campus and its website.
