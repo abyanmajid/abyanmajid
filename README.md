@@ -1,75 +1,112 @@
-# Markdown Exercise
+Freshman at USYD :) \
+Interests: Rust, ML/DL, Web3
 
-![](https://cdn.iconscout.com/icon/free/png-256/free-markdown-1-457956.png)
+Portfolio: **[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)**
 
-## Introduction
+<details>
+<summary>Personal projects</summary>
+<br>
 
-One of the most important skills any computing graduate needs to develop is the ability to *learn things independently*. Because
-our field changes so rapidly, much of what you will need or want to work with in the future doesn't exist yet, and so you can't learn
-it while you are at university.
-The skills required to learn something on your own though change much more slowly. Some of them have been the same for
-hundreds of years - some of them are internet skills and are more recent. You will be introduced to some of these skills and be
-asked to apply them to learn things on your own in INFO1111.
-This recognition of the need to `learn to learn` has been around for a while now:
+**2024**
+- **[revise-badvcomp](https://github.com/abyanmajid/revise-badvcomp/tree/main)** (Rust, TypeScript) — Axum Web API (with NextJS UI) for generating practice problems for BAdvComp units. **(FINISHED)**
+- **[zetafy/flarenotes](https://github.com/zetafy/flarenotes/tree/main)** (Go, TypeScript) — Note-taking/sharing app built with Gin Gonic, Supabase, and Next.js **(WORK IN PROGRESS)**
 
---- 
+**2023**
+- **[canute](https://github.com/abyanmajid/canute/tree/main)** (TypeScript) — NextJS quiz-making web app with Server Actions-leveraging Mongo backend. **(FINISHED)**
+- **[hyte](https://github.com/abyanmajid/hyte/tree/main)** (Rust) — Hypothesis testing library crate for Rust with support for Z, T, and Chi-squared tests. **(FINISHED)**
+- **[zetafy/abelardo](https://github.com/zetafy/abelardo/tree/main)** (Python) — Discord bot that generates ELEC1601 practice problems. **(FINISHED)**
+- **[dyckvis](https://github.com/abyanmajid/dyckvis/tree/main)** (JavaScript) — Static web app for visualizing dyck paths. **(FINISHED)**
 
-> The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and
-> relearn.
-- Alvin Toffler
+**2022**
+- **[serambimungil](https://github.com/abyanmajid/serambimungil)** (Python) — Django web app for a small store, built with the model-template-views architecture. **(FINISHED)**
 
-(this quote may explain some of those advertisements the university is so fond of putting up around campus and its website.
+</details>
+
+<details>
+<summary>Skills</summary>
+<br>
+
+**Programming Languages**
+
+- *Extensive use*: Rust, TypeScript/JavaScript
+- *Some experience*: Go, Java, Python, C#, C, R
+- *Markup*: LaTeX
+
+**Fullstack Development**
+
+- Practical skills: UI/UX, Web Services/API, Databases, Containerization, CI/CD
+- Technologies
+  - *Extensive use*: Next.js/React.js, Axum.rs, Docker, Supabase, GCP, Vercel
+  - *Some experience*: Svelte.js, PostgreSQL, MongoDB, Gin Gonic, AWS, Firebase, Django, Shuttle, Express.js
+
+**Data Science and AI**
+
+- Practical skills: Supervised Learning, Data Visualization and Manipulation
+- Technologies
+  - *Some experience*: TensorFlow, RStudio
+
+</details>
+
+<!-- <details> -->
+<!--   <summary>Personal projects</summary> -->
+<!---->
+<!--   <br> -->
+<!---->
+<!--   The following table is a complete list of side projects I work on during my free times. -->
+<!---->
+<!--   *Stars* ( :star: ) *denote bigger projects.* -->
+<!---->
+<!--   | Status (Year) | Title | Description | Technologies | -->
+<!--   |:---------|:---------|:---------|:---------| -->
+<!--   | Work in progress <br> (2024) | <a href="https://github.com/abyanmajid/revise-badvcomp">**Revise BAdvComp**</a> <br> | Public API with simple UI for generating practice problems to help in studying for USYD's Bachelor of Advanced Computing units | **UI** — Next.js + Shadcn <br> **Server** — Axum <br> **Styles** — Tailwind CSS <br> **Language** — TS, Rust | -->
+<!--   | Work in progress <br> (Inactive) <br> (2024) | <a href="https://github.com/abyanmajid/kaori">**Kaori**</a> <br> | Full-stack PWA for productivity with Rust backend | **UI** — Next.js + Shadcn <br> **Server** — Axum <br> **Database** — PostgreSQL <br> **Styles** — Tailwind CSS <br> **OAuth** — Auth.js <br> **PWA Builder** — Serwist <br> **Language** — TS, Rust | -->
+<!--   | Finished, live at <br> <a href="https://canute.vercel.app">canute.vercel.app</a> <br> (2023) | <a href="https://github.com/abyanmajid/canute">**Canute**</a> <br> ( :star: ) | Full-stack quiz-making web app leveraging Next.js' server actions. | **UI and Server** — Next.js *(leveraging SSR)* <br> **Database** — MongoDB <br> **Styles** — Tailwind CSS <br> **OAuth** — Auth.js <br> **Language** — TypeScript <br> | -->
+<!--   | Finished, crate at <br> <a href="https://crates.io/crates/hyte">crates.io/crates/hyte</a> <br> (2023) | <a href="https://github.com/abyanmajid/hyte">**Hyte**</a> | Hypothesis testing library crate for Rust with support for Z, T, and Pearson's Chi-squared tests | **Language** — Rust | -->
+<!--   | Finished <br> (2023) | <a href="https://github.com/zetafy/abelardo">**Abelardo**</a> | Discord bot that generates ELEC1601 practice problems | **API** — discord.py <br> **Language** — Python | -->
+<!--   | Finished, live at <br> <a href="https://abyanmajid.github.io/dyckvis">abyanmajid.github.io/dyckvis</a> <br> (2023) | <a href="https://github.com/abyanmajid/dyckvis">**Dyckvis**</a> | Static web app for visualizing dyck paths | **Styles** — Bootstrap <br> **Language** — JavaScript | -->
+<!--   | Finished <br> (2022) | <a href="https://github.com/abyanmajid/serambimungil">**Serambi Mungil**</a> <br> ( :star: ) | CRUD web app for a small store, built with the model–template–views architecture | **Backend** — Django <br> **Database** — SQLite3 *(Django-generated)* <br> **UI and Styles** — Bootstrap <br> **Language** — Python | -->
+<!---->
+<!-- </details> -->
+<!---->
+<!-- <details> -->
+<!--   <summary>Technologies I have experience in</summary> -->
+<!--   <br> -->
+<!---->
+<!-- The following are technologies I have learned and/or used for side projects or assignments. \ -->
+<!-- <!> **Sorted by experience; from most to least** -->
+<!---->
+<!-- ### Languages -->
+<!-- [![languages](https://skillicons.dev/icons?i=typescript,javascript,rust,python,latex,java,go,cpp&theme=dark)](#) -->
+<!---->
+<!-- *Used regularly*: Rust, TypeScript -->
+<!---->
+<!-- ### Web Technologies, CI/CD -->
+<!-- [![web, ci/cd](https://skillicons.dev/icons?i=nextjs,react,actix,git,nodejs,tailwind,mongodb,postgresql,docker,postman,githubactions,django,express,vite&theme=dark)](#) -->
+<!---->
+<!-- *Used regularly*: Next.js, Axum, MongoDB, PostgreSQL, Tailwind, Node.js, Docker, Git -->
+<!---->
+<!-- ### Cloud Services -->
+<!-- [![cloud services](https://skillicons.dev/icons?i=vercel,gcp,mongodb,supabase,heroku&theme=dark)](#) -->
+<!---->
+<!-- *Used regularly*: Vercel, GCP -->
+<!---->
+<!-- </details> -->
+<!---->
+<!-- <details> -->
+<!--   <summary>Things I'm currently learning</summary> -->
+<!--   <br> -->
+<!---->
+<!--   [![cloud services](https://skillicons.dev/icons?i=tensorflow,svelte,solidity&theme=dark)](#) -->
+<!---->
+<!--   I am currently learning the following in my free time: -->
+<!---->
+<!--   - Supervised ML -->
+<!--   - Svelte -->
+<!--   - Solidity -->
+<!---->
+<!-- </details> -->
 
 ---
 
-Your first task is to reproduce this document using a specific technology - **Markdown**. Markdown is what I have used to create
-this document myself, and so you should be able to create a perfect copy of it.
-
-## Suggested Approach
-
-Here is a basic suggested path for you to take (this same initial process applies to pretty much everything you might want to selflearn):
-
-- [x]  First, find out what Markdown is
-- [ ] Find some resources that explain how to use Markdown
-- [ ]  Experiment with and explore Markdown on your own
-- [ ] Try and recreate this document as precisely as you can
-
-This task is a 'trial run' before you get ~thrown into the deep end~ asked to learn something on your own without much support from
-teaching staff. To be clear - you will get as much support as we can possibly offer to do with how to learn - but you will be almost
-entirely on your own in terms of the thing you are learning. While this Markdown task is not assessed, and could be completed in
-a couple of hours, you will soon be asked to develop a plan for learning something more substantial. Use this task to practice
-finding and studying resources on your own before the real thing!
-
-As a suggestion, create a resource list. This list will help you in a few ways:
-
-- Keeping track of resources you have found so you don't lose track of them while you search for other resources.
-
-- Helping you to create a bibliography and reference list when you write up your work (you don't need to do this for this
-markdown task, but you do for your main self-learning report).
-
-- When someone asks you in a few months or years how to do something you have learned, you have resources to direct
-them to.
-
-You can store this in a few ways - from something as informal as a folder of bookmarks in your browser, to a list you save in
-Dropbox/Onedrive/
-
-1.  First resource
-2. Second resource
-…
-10. Tenth resource and so on
-
-or you could use a table in Excel or similar:
-
-| Resource | Notes |
-|---|---|
-| www.okwebsite.com/info.html | Has some basic information on what to use X for but not a lot of detail about how to use it |
-| www.betterwebsite.com/tutorial.asp | Has an in-depth tutorial on using X |
-| www.youtube.com/watch?v=dQw4w9WgXcQ | Has a worked solution on video |
-
-## Submission
-
-Once you are ready, upload your document **as a pdf** to the submission link on Canvas - todo. Remember that this is not
-assessed - this is just so your tutor can see where you are up to if you have any questions (remember they won't tell you
-anything at all about Markdown itself - just how to find out about it on your own).
-Make sure you try this on your own! Having a friend teach you what they have learned isn't going to help you with the skills we
-are actually assessing you on.
+[![LinkedIn](https://img.shields.io/badge/Abyan%20Majid-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/abyanmajid/")
+[![Discord](https://img.shields.io/badge/kinderheim.511-%235865F2.svg?style=flat&logo=discord&logoColor=white)]("#") [![Gmail](https://img.shields.io/badge/abyan@abydyl.net-D14836?style=flat&logo=gmail&logoColor=white)]("#")
