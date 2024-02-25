@@ -106,6 +106,7 @@ Portfolio: **[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)**
 <!---->
 <!-- </details> -->
 
+
 ---
 
 [![LinkedIn](https://img.shields.io/badge/Abyan%20Majid-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/abyanmajid/")
