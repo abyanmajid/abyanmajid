@@ -1,5 +1,5 @@
-Freshman at USYD :) \
-Interests: Rust, ML/DL, Web3
+Freshman at USYD and a hobby developer :) \
+Interests: Rust, Backend, DevOps, ML/DL, Web3
 
 Portfolio: **[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)**
 
