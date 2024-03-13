@@ -116,4 +116,4 @@ Portfolio: **[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)**
 ---
 
 [![LinkedIn](https://img.shields.io/badge/Abyan%20Majid-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/abyanmajid/")
-[![Discord](https://img.shields.io/badge/kinderheim.511-%235865F2.svg?style=flat&logo=discord&logoColor=white)]("#") [![Gmail](https://img.shields.io/badge/abyan@abydyl.net-D14836?style=flat&logo=gmail&logoColor=white)]("#")
+[![Discord](https://img.shields.io/badge/yankinder-%235865F2.svg?style=flat&logo=discord&logoColor=white)]("#") [![Gmail](https://img.shields.io/badge/abyan@abydyl.net-D14836?style=flat&logo=gmail&logoColor=white)]("#")
