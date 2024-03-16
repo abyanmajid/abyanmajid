@@ -40,7 +40,7 @@ export default function Home() {
           <ul className="md:text-base text-sm">
             <li><EnvelopeClosedIcon className="icon" />&nbsp;abyan@abydyl.net</li>
             <li><LinkedInLogoIcon className="icon" />&nbsp;abyanmajid</li>
-            <li><DiscordLogoIcon className="icon" />&nbsp;kinderheim.511</li>
+            <li><DiscordLogoIcon className="icon" />&nbsp;yankinder</li>
           </ul>
         </div>
       </section>
