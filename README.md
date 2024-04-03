@@ -29,7 +29,7 @@ Portfolio: **[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)**
 **Programming Languages**
 
 - *Extensive use*: Rust, TypeScript/JavaScript
-- *Some experience*: Go, Java, Python, R
+- *Some experience*: C#, Go, Java, Python, SQL, R
 - *Markup*: LaTeX
 
 ![Languages](https://skillicons.dev/icons?i=rust,ts,js,go,java,python,r)
