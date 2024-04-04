@@ -32,24 +32,30 @@ Portfolio: **[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)**
 - *Some experience*: C#, Go, Java, Python, SQL, R
 - *Markup*: LaTeX
 
-![Languages](https://skillicons.dev/icons?i=rust,ts,js,go,java,python,r)
+![Languages](https://skillicons.dev/icons?i=rust,cs,ts,js,go,java,python,r)
 
 **Fullstack Development**
 
 - Practical skills: UI/UX, Web Services/API, Databases, Containerization, CI/CD
 - Technologies
   - *Extensive use*: Next.js/React.js, Axum.rs, Docker, Supabase, GCP, Vercel
-  - *Some experience*: PostgreSQL, MongoDB, Gin Gonic, AWS, Firebase, Django, Shuttle, Express.js
+  - *Some experience*: PostgreSQL, MongoDB, ASP.NET, Gin Gonic, AWS, Django, Shuttle, Express.js
  
-![Languages](https://skillicons.dev/icons?i=nextjs,react,docker,supabase,gcp,vercel,postgres,mongodb,aws,firebase,django,express)
+![Languages](https://skillicons.dev/icons?i=nextjs,react,rust,dotnet,go,docker,githubactions,supabase,gcp,vercel,postgres,mongodb,aws,django,express)
 
 **Data Science and AI**
 
 - Practical skills: Supervised Learning, Data Visualization and Manipulation
 - Technologies
-  - *Some experience*: Scikit-learn, TensorFlow, RStudio
+  - *Some experience*: Tableau, RStudio, Scikit-learn, TensorFlow
  
 ![Languages](https://skillicons.dev/icons?i=sklearn,tensorflow)
+
+**Developer Tools**
+
+Git, Linux, Vim/NeoVim, VS Code, Visual Studio, Postman
+
+![Languages](https://skillicons.dev/icons?i=git,linux,vim,neovim,vscode,visualstudio,postman)
 
 </details>
 
