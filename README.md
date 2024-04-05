@@ -39,9 +39,9 @@ Portfolio: **[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)**
 - Practical skills: UI/UX, Web Services/API, Databases, Containerization, CI/CD
 - Technologies
   - *Extensive use*: Next.js/React.js, Axum.rs, Docker, Supabase, GCP, Vercel
-  - *Some experience*: PostgreSQL, MongoDB, ASP.NET, Gin Gonic, AWS, Django, Shuttle, Express.js
+  - *Some experience*: PostgreSQL, MongoDB, ASP.NET, Gin Gonic, Azure, Django, Shuttle, Express.js
  
-![Languages](https://skillicons.dev/icons?i=nextjs,react,rust,dotnet,go,docker,githubactions,supabase,gcp,vercel,postgres,mongodb,aws,django,express)
+![Languages](https://skillicons.dev/icons?i=nextjs,react,rust,dotnet,go,docker,githubactions,supabase,gcp,vercel,postgres,mongodb,azure,django,express)
 
 **Data Science and AI**
 
