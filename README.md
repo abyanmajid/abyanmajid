@@ -8,6 +8,7 @@ Portfolio: **[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)**
 <br>
 
 **2024**
+- **[yankan](https://github.com/abyanmajid/yankan/tree/main)** (C#, TypeScript) — Kanban board with ASP.NET Core Microservices, Next.JS UI, PostgreSQL-Supabase backend, and Clerk Auth **(FINISHED)**
 - **[revise-badvcomp](https://github.com/abyanmajid/revise-badvcomp/tree/main)** (Rust, TypeScript) — Axum Web API (with NextJS UI) for generating practice problems for BAdvComp units. **(FINISHED)**
 - **[zetafy/flarenotes](https://github.com/zetafy/flarenotes/tree/main)** (Go, TypeScript) — Note-taking/sharing app built with Gin Gonic, Supabase, and Next.js **(WORK IN PROGRESS)**
 
