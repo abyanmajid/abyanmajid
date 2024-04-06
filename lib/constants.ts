@@ -40,5 +40,12 @@ export const PROJECTS = [
     description: "Axum Web API (with NextJS UI) for generating practice problems for BAdvComp units.",
     languages: "Rust, TypeScript",
     href: "https://github.com/abyanmajid/revise-badvcomp"
+  },
+  {
+    year: 2024,
+    name: "yankan",
+    description: "Kanban board with ASP.NET Core API, Next.JS UI, PostgreSQL-Supabase backend, and Clerk Auth",
+    languages: "C#, TypeScript",
+    href: "https://github.com/abyanmajid/yankan"
   }
 ]
