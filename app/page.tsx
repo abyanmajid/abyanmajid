@@ -35,12 +35,12 @@ export default function Home() {
           <h1 className="font-bold mb-2 md:text-base text-sm">Abyan Majid <span className="font-normal text-muted-foreground">(pronounced: Uh-bee-yun)</span></h1>
           <h1 className="md:text-base text-sm">Computer Science Student (1st Year)</h1>
           <h1 className="md:text-base text-sm">University of Sydney (2023-2027)</h1>
-          <h1 className="mt-2 md:text-base text-sm"><span className="font-bold">Interests:</span> Open-source software, AI, Web3</h1>
+          <h1 className="mt-2 md:text-base text-sm"><span className="font-bold">Interests:</span> Rust, ML/DL, Web3</h1>
           <h1 className="mt-2 md:text-base text-sm"><span className="font-bold">Contacts:</span></h1>
           <ul className="md:text-base text-sm">
             <li><EnvelopeClosedIcon className="icon" />&nbsp;abyan@abydyl.net</li>
             <li><LinkedInLogoIcon className="icon" />&nbsp;abyanmajid</li>
-            <li><DiscordLogoIcon className="icon" />&nbsp;kinderheim.511</li>
+            <li><DiscordLogoIcon className="icon" />&nbsp;yankinder</li>
           </ul>
         </div>
       </section>

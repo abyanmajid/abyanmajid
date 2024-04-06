@@ -1,7 +1,64 @@
-I'm a first year interested in collaborative open-sourced side projects :) \
-Please get in touch if you'd like to have me. I respond quickest on discord 🐋
+Freshman at USYD and a hobby developer :) \
+Interests: Rust, Backend, ML/DL, Web3
 
-Portfolio: ***[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)***
+Portfolio: **[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)**
+
+<details>
+<summary>Personal projects</summary>
+<br>
+
+**2024**
+- **[yankan](https://github.com/abyanmajid/yankan/tree/main)** (C#, TypeScript) — Kanban board with ASP.NET Core API, Next.JS UI, PostgreSQL-Supabase backend, and Clerk Auth **(FINISHED)**
+- **[revise-badvcomp](https://github.com/abyanmajid/revise-badvcomp/tree/main)** (Rust, TypeScript) — Axum Web API (with NextJS UI) for generating practice problems for BAdvComp units. **(FINISHED)**
+- **[zetafy/flarenotes](https://github.com/zetafy/flarenotes/tree/main)** (Go, TypeScript) — Note-taking/sharing app built with Gin Gonic, Supabase, and Next.js **(WORK IN PROGRESS)**
+
+**2023**
+- **[canute](https://github.com/abyanmajid/canute/tree/main)** (TypeScript) — NextJS quiz-making web app with Server Actions-leveraging Mongo backend. **(FINISHED)**
+- **[hyte](https://github.com/abyanmajid/hyte/tree/main)** (Rust) — Hypothesis testing library crate for Rust with support for Z, T, and Chi-squared tests. **(FINISHED)**
+- **[zetafy/abelardo](https://github.com/zetafy/abelardo/tree/main)** (Python) — Discord bot that generates ELEC1601 practice problems. **(FINISHED)**
+- **[dyckvis](https://github.com/abyanmajid/dyckvis/tree/main)** (JavaScript) — Static web app for visualizing dyck paths. **(FINISHED)**
+
+**2022**
+- **[serambimungil](https://github.com/abyanmajid/serambimungil)** (Python) — Django web app for a small store, built with the model-template-views architecture. **(FINISHED)**
+
+</details>
+
+<details>
+<summary>Skills</summary>
+<br>
+
+**Programming Languages**
+
+- *Extensive use*: Rust, TypeScript/JavaScript
+- *Some experience*: C#, Go, Java, Python, SQL, R
+- *Markup*: LaTeX
+
+![Languages](https://skillicons.dev/icons?i=rust,cs,ts,js,go,java,python,r)
+
+**Fullstack Development**
+
+- Practical skills: UI/UX, Web Services/API, Databases, Containerization, CI/CD
+- Technologies
+  - *Extensive use*: Next.js/React.js, Axum.rs, Docker, Supabase, GCP, Vercel
+  - *Some experience*: PostgreSQL, MongoDB, ASP.NET, Gin Gonic, Azure, Django, Shuttle, Express.js
+ 
+![Languages](https://skillicons.dev/icons?i=nextjs,react,rust,dotnet,go,docker,githubactions,supabase,gcp,vercel,postgres,mongodb,azure,django,express)
+
+**Data Science and AI**
+
+- Practical skills: Supervised Learning, Data Visualization and Manipulation
+- Technologies
+  - *Some experience*: Tableau, RStudio, Scikit-learn, TensorFlow
+ 
+![Languages](https://skillicons.dev/icons?i=sklearn,tensorflow)
+
+**Developer Tools**
+
+Git, Linux, Vim/NeoVim, VS Code, Visual Studio, Postman
+
+![Languages](https://skillicons.dev/icons?i=git,linux,vim,neovim,vscode,visualstudio,postman)
+
+</details>
 
 <!-- <details> -->
 <!--   <summary>Personal projects</summary> -->
@@ -62,8 +119,8 @@ Portfolio: ***[abyanmajid.vercel.app](https://abyanmajid.vercel.app/)***
 <!---->
 <!-- </details> -->
 
+
 ---
 
 [![LinkedIn](https://img.shields.io/badge/Abyan%20Majid-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/abyanmajid/")
-[![Discord](https://img.shields.io/badge/kinderheim.511-%235865F2.svg?style=flat&logo=discord&logoColor=white)]("#") [![Gmail](https://img.shields.io/badge/abyan@abydyl.net-D14836?style=flat&logo=gmail&logoColor=white)]("#")
-
+[![Discord](https://img.shields.io/badge/yankinder-%235865F2.svg?style=flat&logo=discord&logoColor=white)]("#") [![Gmail](https://img.shields.io/badge/abyan@abydyl.net-D14836?style=flat&logo=gmail&logoColor=white)]("#")
