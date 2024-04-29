@@ -1,2 +1,2 @@
 **yan** - freshman in cs @ usyd \
-average rust enjoyer
+average rust enjoyer :)
