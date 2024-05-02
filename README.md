@@ -1,4 +1,14 @@
-**yan** - freshman in cs @ usyd \
-average rust enjoyer :) :heart::crab:
+**yan** - Freshman in CS @ USYD \
+Fellow Rust Enthusiast :heart::crab:
 
-interests: rust, web3, machine learning
+<!--
+<details>
+<summary>My side projects</summary>
+  
+</details>
+
+<details>
+<summary>Technologies I have worked with</summary>
+  
+</details>
+-->
