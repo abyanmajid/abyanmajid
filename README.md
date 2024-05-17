@@ -1,7 +1,8 @@
 just a guy who is overly enthusiastic about code and cool software
 
 - 🎓 learning stuff at usyd
-- :crab: in love with rust and vim
+- :crab: in love with rust
+- 😢 stuck in vim
 - :rocket: some of the cooler stuff i've built: [codemore.io](#)😍, [gylio](#)😍
 - :poop: other, less cool stuff i've built: [canute](#), [revise-badvcomp](#), [hyte](#), [dyckvis](#), [serambimungil](#)
 
