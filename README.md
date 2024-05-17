@@ -1,6 +1,6 @@
 just a guy who is overly enthusiastic about code and cool software
 
-- 🎓 learning stuff at usyd
+- 🎓 learning stuff at usyd (1st year)
 - :crab: in love with rust
 - 😢 stuck in vim
 - :rocket: some of the cooler stuff i've built: [codemore.io](#)😍, [gylio](#)😍
