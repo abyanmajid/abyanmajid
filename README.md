@@ -6,6 +6,9 @@ just a guy who is overly enthusiastic about code and cool software
 - :rocket: some of the cooler stuff i've built: [codemore.io](#)😍, [gylio](#)😍
 - :poop: other, less cool stuff i've built: [canute](#), [revise-badvcomp](#), [hyte](#), [dyckvis](#), [serambimungil](#)
 
+![](https://komarev.com/ghpvc/?username=abyanmajid)
+
+
 <!--
 **abyanmajid/abyanmajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
