@@ -1,12 +1,10 @@
-just a guy who is overly enthusiastic about code and cool software
-
+just a guy who is overly enthusiastic about code and building cool open-source software
 - 🎓 learning stuff at usyd (1st year)
-- :crab: in love with rust
-- 😢 stuck in vim
+- 💻 interested in projects in the areas of microservices/distributed systems, supervised learning, web3, and 2D game development.
 - :rocket: some of the cooler stuff i've built: [codemore.io](#)😍, [gylio](#)😍
 - :poop: other, less cool stuff i've built: [canute](#), [revise-badvcomp](#), [hyte](#), [dyckvis](#), [serambimungil](#)
 
-![](https://komarev.com/ghpvc/?username=abyanmajid)
+![Gmail](https://img.shields.io/badge/abyan@abydyl.net-D14836?style=flat&logo=gmail&logoColor=white) ![Discord](https://img.shields.io/badge/yankinder-%235865F2.svg?style=flat&logo=discord&logoColor=white) ![LeetCode](https://img.shields.io/badge/abyanmajid-000000?style=flat&logo=LeetCode&logoColor=#d16c06)
 
 
 <!--
