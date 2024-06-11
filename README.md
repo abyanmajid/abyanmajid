@@ -1,4 +1,4 @@
-just a guy who is overly enthusiastic about code and building cool open-source software
+just a guy who is overly enthusiastic about code and cool software
 - 🎓 learning stuff at usyd (1st year)
 - 💻 interested in projects in the areas of microservices/distributed systems, supervised learning, web3, and 2D game development.
 - :rocket: some of the cooler stuff i've built: [codemore.io](#)😍, [gylio](#)😍
