@@ -1,10 +1,12 @@
 just a guy who is overly enthusiastic about code and cool software
-- 🎓 learning stuff at usyd (1st year)
-- 💻 interested in projects in the areas of microservices/distributed systems, supervised learning, web3, and 2D game development.
-- :rocket: some of the cooler stuff i've built: [codemore.io](#)😍, [gylio](#)😍
-- :poop: other, less cool stuff i've built: [canute](#), [revise-badvcomp](#), [hyte](#), [dyckvis](#), [serambimungil](#)
+- 🎓 learning stuff at usyd (2nd year)
+- 💻 interested in projects in the areas of distributed systems, web3, ml, game development, rust, and go
+- :rocket: some of the cooler stuff i've built: [codemore.io](https://github.com/abyanmajid/codemore.io)😍
+- :poop: other, less cool stuff i've built: [canute](https://github.com/abyanmajid/canute), [revise-badvcomp](https://github.com/revise-badvcomp), [hyte](https://github.com/abyanmajid/hyte), [dyckvis](https://github.com/abyanmajid/dyckvis), [serambimungil](https://github.com/abyanmajid/serambimungil)
+- 🧑‍🤝‍🧑 some stuff i worked on in collaboration with other people: [syncs](https://github.com/syncs-usyd), [yappify](https://github.com/yappify)
 
-![Gmail](https://img.shields.io/badge/abyan@abydyl.net-D14836?style=flat&logo=gmail&logoColor=white) ![Discord](https://img.shields.io/badge/yankinder-%235865F2.svg?style=flat&logo=discord&logoColor=white) ![LeetCode](https://img.shields.io/badge/abyanmajid-000000?style=flat&logo=LeetCode&logoColor=#d16c06)
+
+![Gmail](https://img.shields.io/badge/abyan@abydyl.net-D14836?style=flat&logo=gmail&logoColor=white) ![Discord](https://img.shields.io/badge/yankinder-%235865F2.svg?style=flat&logo=discord&logoColor=white)
 
 
 <!--
