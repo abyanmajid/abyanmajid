@@ -1,6 +1,6 @@
 just a guy who is overly enthusiastic about code and cool software
 - 🎓 learning stuff at usyd (year 2, semester 1)
-- 💻 interested in projects in the areas of distributed systems, web3, ml, game development, rust, and go
+- 💻 interested in projects in the areas of distributed systems, go, web3, and rust
 - :rocket: some of the cooler stuff i've built: [codemore.io](https://github.com/abyanmajid/codemore.io)😍
 - :poop: other, less cool stuff i've built: [canute](https://github.com/abyanmajid/canute), [revise-badvcomp](https://github.com/abyanmajid/revise-badvcomp), [hyte](https://github.com/abyanmajid/hyte), [dyckvis](https://github.com/abyanmajid/dyckvis), [serambimungil](https://github.com/abyanmajid/serambimungil), [yankan](https://github.com/abyanmajid/yankan), [notes](https://github.com/abyanmajid/notes)
 - 🧑‍🤝‍🧑 some stuff i worked on in collaboration with other people: [syncs](https://github.com/syncs-usyd), [yappify](https://github.com/yappify), [abelardo](https://github.com/zetafy/abelardo)
