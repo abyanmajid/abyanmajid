@@ -4,22 +4,18 @@ Hit me up if you share my passion for anything Software Dev, DevOps, or Generati
 <details>
   <summary>Education</summary>
 
-  ---
+  <br>
 
   **University of Sydney** \
   Dalyell Scholar, High Distinction \
   Bachelor of Advanced Computing (2023-2027) \
   Major in Software Development
 
-  ---
-  
 </details>
 
 <details>
   <summary>Skills</summary>
 
-  ---
-  
   ### Methodologies
 
   Sorted by level of experience:
@@ -34,8 +30,6 @@ Hit me up if you share my passion for anything Software Dev, DevOps, or Generati
   - Secure coding with OWASP top 10 vulnerabilities in mind
   - Writing technical documentation
   - Social coding efforts e.g., pair programming (in a team environment)
-  
-  ---
 
   ### Technologies
 
@@ -53,16 +47,16 @@ Hit me up if you share my passion for anything Software Dev, DevOps, or Generati
      ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
      
   3. **Frontend:** \
-     Extensive use: **_JavaScript/TypeScript, Next.js, React.js_** \
+     Extensive use: **_JavaScript/TypeScript, Next.js, React.js, Tailwind CSS_** \
      Some experience: **_Tauri, Electron, Astro_** \
      \
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 	![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 	![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 
   4. **Cloud services:** \
      Extensive use: **_GCP Cloud Run, Vercel_** \
-     Some experience: **AWS EC2/EKS, Azure SQL Server, Firebase, PythonAnywhere** \
+     Some experience: **AWS EC2/EKS, Azure SQL Server, Supabase, Firebase, PythonAnywhere** \
      \
-     ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
+     ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
 
   5. **Data Science and AI:** \
      Extensive use: **_Python_** \
@@ -76,7 +70,22 @@ Hit me up if you share my passion for anything Software Dev, DevOps, or Generati
      \
      ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
   
-  ---
+</details>
+
+<details>
+  <summary>Personal projects catalogue</summary>
+
+<br>
+  
+| Year | Project | Description | Technologies | Status |
+|----------|----------|----------|----------|----------|
+| 2024 | **[Yan](https://github.com/YanSystems)**   | Multi-purpose microservices app that serves a programming platform, my personal blog, and resume.   | Go, TypeScript, Next.js, PostgreSQL, MongoDB, Docker, Kubernetes, ELK Stack, GitHub Actions, Terraform, AWS | Work in Progress   |
+| 2024 | **[codemore.io](https://github.com/abyanmajid/codemore.io-v0.1.0)**   | Microservices app that serves a programming platform for learning to code. | Go, Next.js, PostgreSQL, MongoDB, Docker, GitHub API, GitHub Actions | Archived/Abandoned   |
+| 2023 | **[Revise-BAdvComp](https://github.com/abyanmajid/revise-badvcomp)**   | REST API for generating practice problems based on randomization to help in studying for computing units at USYD.  | Rust, Next.js, Docker, GitHub Actions, GCP Cloud Run, Vercel  | Finished  |
+| 2023 | **[Hyte](https://github.com/abyanmajid/hyte)**   | Rust crate for hypothesis testing with support for Z, T, and Chi-squared tests.  | Rust  | Finished  |
+| 2023 | **[Canute](https://github.com/abyanmajid/canute)**   | Quiz-making web application  | TypeScript, MongoDB, Vercel  | Finished  |
+| 2023 | **[Serambi Mungil](https://github.com/abyanmajid/serambimungil)**   | Web application for a store in Indonesia  | Python, Django, Bootstrap, PythonAnywhere  | Finished  |
+
   
 </details>
 
