@@ -80,7 +80,7 @@ Hit me up if you share my passion for anything Software Dev, DevOps, or Generati
 | Year | Project | Description | Technologies | Status |
 |----------|----------|----------|----------|----------|
 | 2024 | **[Yan](https://github.com/YanSystems)**   | Multi-purpose microservices app that serves a programming platform, my personal blog, and resume.   | Go, TypeScript, Next.js, PostgreSQL, MongoDB, Docker, Kubernetes, ELK Stack, GitHub Actions, Terraform, AWS | Work in Progress   |
-| 2024 | **[codemore.io](https://github.com/abyanmajid/codemore.io-v0.1.0)**   | Microservices app that serves a programming platform for learning to code. | Go, Next.js, PostgreSQL, MongoDB, Docker, GitHub API, GitHub Actions | Archived/Abandoned   |
+| 2024 | **[codemore.io](https://github.com/abyanmajid/codemore.io-v0.1.0)**   | Microservices app that serves a programming platform for learning to code. | Go, Next.js, PostgreSQL, MongoDB, Docker, GitHub API, GitHub Actions | Archived/Discontinued   |
 | 2023 | **[Revise-BAdvComp](https://github.com/abyanmajid/revise-badvcomp)**   | REST API for generating practice problems based on randomization to help in studying for computing units at USYD.  | Rust, Next.js, Docker, GitHub Actions, GCP Cloud Run, Vercel  | Finished  |
 | 2023 | **[Hyte](https://github.com/abyanmajid/hyte)**   | Rust crate for hypothesis testing with support for Z, T, and Chi-squared tests.  | Rust  | Finished  |
 | 2023 | **[Canute](https://github.com/abyanmajid/canute)**   | Quiz-making web application  | TypeScript, MongoDB, Vercel  | Finished  |
