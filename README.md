@@ -1,5 +1,5 @@
 Just a guy who strives to do useful things through computing and other efforts! :smile: \
-Super passionate about Software Dev, DevOps, or Generative AI :v:
+Super passionate about Software Dev, DevOps, and Generative AI :v:
 
 <details>
   <summary>Education 🎓</summary>
