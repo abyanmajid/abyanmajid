@@ -2,7 +2,7 @@ Just a guy who strives to do useful things through computing and other efforts! 
 Hit me up if you share my passion for anything Software Dev, DevOps, or Generative AI :v:
 
 <details>
-  <summary>Education</summary>
+  <summary>Education 🎓</summary>
 
   <br>
 
@@ -14,7 +14,7 @@ Hit me up if you share my passion for anything Software Dev, DevOps, or Generati
 </details>
 
 <details>
-  <summary>Skills</summary>
+  <summary>Skills 🍁</summary>
 
   ### Methodologies
 
@@ -73,7 +73,7 @@ Hit me up if you share my passion for anything Software Dev, DevOps, or Generati
 </details>
 
 <details>
-  <summary>Personal projects catalogue</summary>
+  <summary>Personal projects catalogue 📑</summary>
 
 <br>
   
