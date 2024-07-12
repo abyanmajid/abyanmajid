@@ -1,5 +1,4 @@
-Just a guy who strives to do useful things through computing and other efforts! :smile: \
-Super passionate about Software Dev, DevOps, and Generative AI :v:
+Just a guy who strives to do useful things through computing and other efforts! :)
 
 <details>
   <summary>Education 🎓</summary>
