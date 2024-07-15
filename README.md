@@ -6,9 +6,8 @@ Just a guy who strives to do useful things through computing and other efforts! 
   <br>
 
   **University of Sydney** \
-  Dalyell Scholar, High Distinction \
-  Bachelor of Advanced Computing (2023-2027) \
-  Major in Software Development
+  Dalyell Scholar, Bachelor of Advanced Computing (2023-2027) \
+  Major in Software Development, Minor in Computational Data Science
 
 </details>
 
