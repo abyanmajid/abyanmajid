@@ -89,4 +89,4 @@ Just a guy who strives to do useful things through computing and other efforts! 
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/abyanmajid-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abyanmajid/) ![Gmail](https://img.shields.io/badge/abyan@abydyl.net-D14836?style=flat&logo=gmail&logoColor=white) ![Discord](https://img.shields.io/badge/abyanmajid-%235865F2.svg?style=flat&logo=discord&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/abyanmajid-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abyanmajid/) [![Gmail](https://img.shields.io/badge/abyan@abydyl.net-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abyan@abydyl.net) [![Discord](https://img.shields.io/badge/abyanmajid-%235865F2.svg?style=flat&logo=discord&logoColor=white)](#)
