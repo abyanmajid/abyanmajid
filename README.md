@@ -87,15 +87,6 @@ Just a guy who strives to do useful things through computing and other efforts! 
   
 </details>
 
-<details>
-  <summary>Some other shenanigans</summary>
-  <br>
-  
-  - I have the most majestic cat in the world :)
-  - My cat is a merciless gangster
-  - I'm allergic to cats :( super sad :(
-</details>
-
 ---
 
-[![LinkedIn](https://img.shields.io/badge/abyanmajid-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abyanmajid/) ![Gmail](https://img.shields.io/badge/abyan@abydyl.net-D14836?style=flat&logo=gmail&logoColor=white) ![Discord](https://img.shields.io/badge/yankinder-%235865F2.svg?style=flat&logo=discord&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/abyanmajid-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abyanmajid/) ![Gmail](https://img.shields.io/badge/abyan@abydyl.net-D14836?style=flat&logo=gmail&logoColor=white) ![Discord](https://img.shields.io/badge/abyanmajid-%235865F2.svg?style=flat&logo=discord&logoColor=white)
