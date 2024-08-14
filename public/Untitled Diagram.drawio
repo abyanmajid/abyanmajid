@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="Page-1" id="ufqYNjg92byhrukvcaqh">
-    <mxGraphModel dx="1747" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="655" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,12 +51,12 @@
             <mxRectangle width="92" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2R5hjLg45iW2WfX7kjv6-42" value="MgtFeeRate" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="2R5hjLg45iW2WfX7kjv6-39" vertex="1">
+        <mxCell id="2R5hjLg45iW2WfX7kjv6-42" value="BankAcct" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="2R5hjLg45iW2WfX7kjv6-39" vertex="1">
           <mxGeometry x="184" width="92" height="40" as="geometry">
             <mxRectangle width="92" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2R5hjLg45iW2WfX7kjv6-43" value="CMailAddress" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="2R5hjLg45iW2WfX7kjv6-39" vertex="1">
+        <mxCell id="2R5hjLg45iW2WfX7kjv6-43" value="MgtFeeRate" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="2R5hjLg45iW2WfX7kjv6-39" vertex="1">
           <mxGeometry x="276" width="92" height="40" as="geometry">
             <mxRectangle width="92" height="40" as="alternateBounds" />
           </mxGeometry>
