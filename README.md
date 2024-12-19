@@ -1,7 +1,5 @@
 Student in Computing, Dalyell Scholar at The University of Sydney \
-Interested in Distributed Systems, Generative AI, Web3, and Human-Robot Interaction
-
-Currently studying hard to become a great software engineer :)
+Interested in Human-Robot Integration, Open-Source Software, Rockets and Space :)
 
 ---
 
