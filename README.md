@@ -2,6 +2,13 @@ Student in Computing, Dalyell Scholar at The University of Sydney \
 Interested in Human-Robot Integration, Open-Source Software, Rockets and Space :)
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=abyanmajid&label=views)
+![ProfileViews](https://komarev.com/ghpvc/?username=abyanmajid&label=views)
+
+![ProfileViews](https://komarev.com/ghpvc/?username=abyanmajid&label=views)
+![ProfileViews](https://komarev.com/ghpvc/?username=abyanmajid&label=views)
+
+![ProfileViews](https://komarev.com/ghpvc/?username=abyanmajid&label=views)
+
 
 ---
 
