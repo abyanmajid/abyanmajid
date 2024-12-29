@@ -1,7 +1,7 @@
 Student, Dalyell Scholar at The University of Sydney \
 Developer in the Web, LLM/Agents, and Blockchain spaces
 
-Interested in Human-Robot Integration, Open-Source Software, and Rockets
+Interested in Human-Robot Integration, Open-Source Software, Blockchain, and Rockets
 
 ---
 
