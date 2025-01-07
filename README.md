@@ -1,7 +1,9 @@
 Student, Dalyell Scholar at The University of Sydney \
-Developer in the Web, LLM/Agents, and Blockchain spaces
+Developer well-versed in anything Web, Distributed Systems, DevOps, AI Agents, and Smart Contracts.
 
-Interested in Human-Robot Integration, Open-Source Software, Blockchain, and Rockets
+Currently working hard to open a cat cafe one day 🐈‍⬛. Oh, and I'm also:
+  - Working hard to improve and advocate for open-source tooling, particularly in the areas of web 🌐, security engineering 💻, and neutral and safe AI research 🤖.
+  - Studying rockets in hopes to play what little part I may have in making the dream of a platform of life for humans on Mars a reality 🚀.
 
 ---
 
