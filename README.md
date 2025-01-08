@@ -3,7 +3,7 @@ Developer well-versed in anything Web, Distributed Systems, DevOps, AI Agents, a
 
 Currently working hard to open a cat cafe one day 🐈‍⬛. Oh, and I'm also:
   - Working hard to improve and advocate for open-source tooling, particularly in the areas of web 🌐, security engineering 💻, and neutral and safe AI research 🤖.
-  - Studying rockets in hopes to play what little part I may have in making the dream of a platform of life for humans on Mars a reality 🚀.
+  - Studying rockets in hopes to play what little part I could have in making the dream of humans on Mars a reality 🚀.
 
 ---
 
