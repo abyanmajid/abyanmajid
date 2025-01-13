@@ -1,4 +1,4 @@
-Student, Dalyell Scholar at The University of Sydney \
+Student at The University of Sydney \
 Developer well-versed in anything Web, Distributed Systems, DevOps, LLM and Agents, and Smart Contracts. \
 Interested in Open Source, Devtools, Web Security, Human-Robot Integration, and Rockets
 
