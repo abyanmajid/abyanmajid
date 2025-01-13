@@ -1,9 +1,6 @@
 Student, Dalyell Scholar at The University of Sydney \
-Developer well-versed in anything Web, Distributed Systems, DevOps, AI Agents, and Smart Contracts.
-
-Currently working hard to adopt 1000 cats and open a cat cafe when I'd retire. Oh, and I'm also currently:
-  - working hard to improve open-source tooling, particularly in the areas of web 🌐, security engineering 💻, and neutral and safe AI research 🤖.
-  - studying rockets in hopes to play what tiny part I can in helping us realize the dream of humans on Mars 🚀.
+Developer well-versed in anything Web, Distributed Systems, DevOps, LLM and Agents, and Smart Contracts. \
+Interested in Open Source, Devtools, Web Security, Human-Robot Integration, and Rockets
 
 ---
 
