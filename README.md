@@ -1,7 +1,7 @@
 Student at The University of Sydney \
 Developer well-versed in anything Web, Distributed Systems, DevOps, LLM and Agents
 
-I author open-source packages such as [matcha](https://github.com/abyanmajid/matcha), [thorfinn](https://github.com/abyanmajid/thorfinn), and more
+I author open-source packages such as [matcha](https://github.com/abyanmajid/matcha), [thorfinn](https://github.com/abyanmajid/thorfinn), [v](https://github.com/abyanmajid/v) and more
 
 Beyond my main line of work, I enjoy:
 - indulging in effective altruism
