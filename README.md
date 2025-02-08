@@ -1,10 +1,11 @@
 Student at The University of Sydney \
-Developer well-versed in anything Web, Distributed Systems, DevOps, LLM and Agents, and Smart Contracts. \
-Interested in Open Source, Devtools, Web Security, Human-Robot Integration, and Rockets
+Developer well-versed in anything Web, Distributed Systems, DevOps, LLM and Agents
+
+I author open-source packages such as [matcha](https://github.com/abyanmajid/matcha), [thorfinn](https://github.com/abyanmajid/thorfinn), and more
 
 Beyond my main line of work, I enjoy:
-- supporting and involving myself in effective altruism
-- writing commentary articles on philosophy, politics, and world events
+- indulging in effective altruism
+- writing and journalism
 
 ---
 
