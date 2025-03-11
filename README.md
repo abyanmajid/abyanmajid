@@ -1,11 +1,12 @@
-Student at The University of Sydney \
-Developer well-versed in anything Web, Distributed Systems, DevOps, LLM and Agents
+Student at the University of Sydney \
+Extensive experience in web, web security, distributed systems, and TypeScript and Golang ecosystems.
 
-I author open-source packages such as [matcha](https://github.com/abyanmajid/matcha), [thorfinn](https://github.com/abyanmajid/thorfinn), [v](https://github.com/abyanmajid/v) and more
+I author open-source packages such as [matcha](https://github.com/abyanmajid/matcha) and [thorfinn](https://github.com/abyanmajid/thorfinn)
 
 Beyond my main line of work, I enjoy:
 - indulging in effective altruism
 - writing and journalism
+- learning random stuff I find cool e.g., graphics, music, philosophy, politics, etc
 
 ---
 
