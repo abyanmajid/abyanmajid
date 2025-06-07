@@ -4,7 +4,7 @@ Extensive experience in web, web security, distributed systems, and TypeScript a
 I author open-source packages such as [matcha](https://github.com/abyanmajid/matcha) and [thorfinn](https://github.com/abyanmajid/thorfinn)
 
 <details>
-  <summary>Beyond my work, I also enjoy:</summary>
+  <summary>Beyond my work, I also enjoy: - (click to expand)</summary>
 <br>
   
 - Being a weeb (vinland saga enthusiast, romcom connoisseur)
