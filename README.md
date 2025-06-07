@@ -13,6 +13,7 @@ I author open-source packages such as [matcha](https://github.com/abyanmajid/mat
 - Writing
 - Intellectual pursuits on politics, philosophy, etc
 - Cooking (newfound love)
+- Minecraft (washed bedwars warrior)
 
 and more. If you share any of my interests, be it work or hobby-wise, please hit me up !!
 
