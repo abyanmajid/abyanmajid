@@ -1,4 +1,4 @@
-- I'm currently doing my undergraduate studies at The University of Sydney
+- I'm a current undergrad at The University of Sydney
 - I author open-source packages such as [matcha](https://github.com/abyanmajid/matcha) and [thorfinn](https://github.com/abyanmajid/thorfinn)
 
 ---
