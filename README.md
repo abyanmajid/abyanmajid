@@ -1,6 +1,6 @@
 - I'm a current undergrad at The University of Sydney
 - I author open-source packages such as [matcha](https://github.com/abyanmajid/matcha) and [thorfinn](https://github.com/abyanmajid/thorfinn)
-- Extensive experience in LLM engineering, deep learning, full-stack development, Golang and TypeScript ecosystems
+- Experienced in LLM engineering, machine learning, full-stack development, Golang and TypeScript ecosystems
 
 ---
 
