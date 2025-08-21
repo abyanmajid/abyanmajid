@@ -1,4 +1,3 @@
-I'm a current undergrad at The University of Sydney \
 I author open-source packages such as [matcha](https://matcha.abydyl.net)
 
 **Skills and Experiences:**
