@@ -7,9 +7,8 @@ I author open-source packages such as [matcha](https://matcha.abydyl.net)
 
 **Interests:**
 - Early-stage startups
-- Cryptocurrency and blockchain (currently learning)
+- Ethereum and Web3
 - Developer tooling and productivity
-- Human-robot integration
 
 ---
 
