@@ -1,14 +1,6 @@
 I author open-source packages such as [matcha](https://matcha.abydyl.net)
 
-**Skills and Experiences:**
-- **_LLM engineering:_** RAG, LoRa fine-tuning, Agents (LangChain, n8n, Flowise), MCP, AWS Bedrock, OpenAI
-- **_Full-stack development:_** Golang and TypeScript ecosystems, SSG/SPA/SSR/Hybrid web apps, distributed systems (microservices), cloud (GCP), CI/CD, testing, Agile/SCRUM, agentic coding workflows, and much more from the SDLC (Software Development Lifecycle)
-- **_Machine learning:_** Statistics, supervised and unsupervised learning, artificial neural networks
-
-**Interests:**
-- Early-stage startups
-- Ethereum and Web3
-- Developer tooling and productivity
+Interested in blockchain, decentralised finance, and large language models.
 
 ---
 
