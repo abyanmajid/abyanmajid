@@ -1,6 +1,6 @@
 I author open-source packages such as [matcha](https://matcha.abydyl.net)
 
-Interested in blockchain, decentralised finance, and large language models.
+Interested in startups, decentralised systems, and generative AI applications
 
 Curriculum vitae (Nov 2025): [cv.pdf](https://github.com/user-attachments/files/23337653/cv.pdf)
 
