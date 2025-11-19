@@ -1,6 +1,6 @@
 I author open-source packages such as [matcha](https://matcha.abydyl.net)
 
-Interested in startups, decentralised (blockchain) applications, and generative AI applications
+Interested in decentralised (blockchain) applications
 
 ---
 
