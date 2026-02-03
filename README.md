@@ -1,3 +1,3 @@
-currently obsessed with agentic workflows and decentralised applications.
+i really like building things
 
 website: https://a3n.sh/
