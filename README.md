@@ -1,3 +1,2 @@
-i really like building things
-
-website: https://a3n.sh/
+hi :) \
+https://a3n.sh/
