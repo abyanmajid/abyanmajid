@@ -1,3 +1,3 @@
-hey! i'm abyan (or yan). i love to work on ambitious projects :)
+hey! i'm abyan. i love to work on bold, unconventional ideas.
 
-**personal website: https://a3n.sh/**
+**more about me: https://a3n.sh/**
