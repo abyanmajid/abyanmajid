@@ -1,3 +1,3 @@
-hey! i'm abyan. i love to work on bold ideas built on huge bets.
+hey! i'm abyan. i love to work on things that promise asymmetric impact.
 
 **more about me: https://a3n.sh/**
